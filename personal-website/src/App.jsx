@@ -1,10 +1,10 @@
-import Navbar from "./components/navbar.jsx"
+import LandingPage from "./components/landing-page";
 
 function App() {
 
   return (
     <>
-      <Navbar/>
+      <LandingPage/>
     </>
   );
 }

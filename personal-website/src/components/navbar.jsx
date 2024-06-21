@@ -1,11 +1,9 @@
 function Navbar() {
   return (
     <div>
-      <ul>
-        <li className="list-elements"> Hi</li>
-        <li className="list-elements"> Hi</li>
-        <li className="list-elements"> Hi</li>
-        <li className="list-elements"> Hi</li>
+      <ul className="">
+        <li></li>
+        <li></li>
       </ul>
     </div>
   );
