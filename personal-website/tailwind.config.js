@@ -10,7 +10,7 @@ export default {
         customBackgroundColor: '#222629',
         customGrayLight: '#6B6E70',
         customGrayDark: '#474B4F',
-        customGrayGreen: '#86C232',
+        customGreen: '#86C232',
       },
     },
   },
