@@ -12,6 +12,9 @@ export default {
         customGrayDark: '#474B4F',
         customOrange: '#FF7600',
       },
+      fontFamily: {
+        mons: ['Montserrat', 'sans-serif'],
+      },
     },
   },
   plugins: [],
