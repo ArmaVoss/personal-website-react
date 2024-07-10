@@ -4,8 +4,8 @@ import { navLinks } from "../constants/index";
 
 function Navbar() {
   return (
-    <header className="bg-white w-full fixed py-2 px-10 lg:px-20 z-10 border-b-[.5px] border-black">
-      <nav className="flex justify-between items-center m-0 max-w-[1440px]">
+    <header className="bg-white w-full fixed py-2 px-10 lg:px-52 z-10 border-b-[.5px] border-black">
+      <nav className="flex justify-between items-center max-w-[1440px]">
         <a href="/">
           <img src={logo} alt="logo" width={50} />
         </a>

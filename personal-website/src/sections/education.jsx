@@ -5,7 +5,7 @@ import Card from "../components/card.jsx";
 
 const Education = () => {
   return (
-    <div className="bg-white w-full min-h-screen pt-[65px] px-10 lg:px-20 flex flex-col">
+    <div className="bg-white w-full min-h-screen pt-[65px] px-10 lg:px-52 flex flex-col">
       <h1 className="mt-10 text-4xl text-customGrayLight">Education</h1>
       <div className="mt-5 grid max-lg:grid-rows-2 lg:grid-cols-2 gap-2 h-[500px] lg:h-[400px] w-full">
         <div className="relative flex items-center justify-center bg-[#ececec]">
